@@ -1,0 +1,22 @@
+{
+  "name": "@types/openseadragonselection",
+  "version": "0.0.1",
+  "description": "Types declaration file for openseadragon selection plugin",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Álvaro Martínez",
+  "license": "ISC",
+  "keywords": [
+    "openseadragon",
+    "dzi",
+    "deep zoom",
+    "plugin",
+    "selection"
+  ],
+  "dependencies": {
+    "openseadragon": "^2.4.1",
+    "openseadragonselection": "^1.8.0"
+  }
+}
